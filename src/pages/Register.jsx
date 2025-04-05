@@ -1,1 +1,1 @@
-export default function Register() { return <div className='p-6 text-center'>注册页面</div>; }
+export default function Register() { return <div>注册页面</div>; }
