@@ -1,0 +1,1 @@
+export default function StockCard() { return <div>股票卡片</div>; }

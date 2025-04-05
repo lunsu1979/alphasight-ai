@@ -1,0 +1,1 @@
+export default function ChartDemo() { return <div>图表示例</div>; }

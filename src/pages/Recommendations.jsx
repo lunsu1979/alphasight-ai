@@ -1,0 +1,1 @@
+export default function Recommendations() { return <div className='p-6 text-center'>推荐页面（图表与卡片结构）</div>; }

@@ -1,1 +1,1 @@
-// Register.jsx - 示例内容
+export default function Register() { return <div className='p-6 text-center'>注册页面</div>; }
